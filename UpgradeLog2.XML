@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="PMXGOVBOGestionPC">
+</Property><Property Name="Solution File" Value="F:\dev\sources\CFS\CFS\trunk\DOTNET\PMXGOVBOGestionPC\PMXGOVBOGestionPC.sln">
+</Property><Property Name="User Options File" Value="F:\dev\sources\CFS\CFS\trunk\DOTNET\PMXGOVBOGestionPC\PMXGOVBOGestionPC.suo">
+</Property><Property Name="Date" Value="jeudi 3 janvier 2019">
+</Property><Property Name="Time" Value="17:08">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="PMXGOVBOGestionPC.sln" Description="File successfully backed up as F:\dev\sources\CFS\CFS\trunk\DOTNET\PMXGOVBOGestionPC\Backup\PMXGOVBOGestionPC.sln">
+</Event><Event ErrorLevel="0" Project="" Source="PMXGOVBOGestionPC.suo" Description="File successfully backed up as F:\dev\sources\CFS\CFS\trunk\DOTNET\PMXGOVBOGestionPC\Backup\PMXGOVBOGestionPC.suo">
+</Event><Event ErrorLevel="4" Project="PMXGovBOGestionPC" Source="http://go.microsoft.com/fwlink/?LinkId=159919" Description="Warning: this project requires Crystal Reports, which is no longer included with Visual Studio. Please click here for more information.">
+</Event><Event ErrorLevel="0" Project="PMXGovBOGestionPC" Source="PMXGovBOGestionPC.vbproj" Description="Project file successfully backed up as F:\dev\sources\CFS\CFS\trunk\DOTNET\PMXGOVBOGestionPC\Backup\PMXGovBOGestionPC.vbproj">
+</Event><Event ErrorLevel="0" Project="PMXGovBOGestionPC" Source="PMXGovBOGestionPC.vbproj.user" Description="Project user file successfully backed up as F:\dev\sources\CFS\CFS\trunk\DOTNET\PMXGOVBOGestionPC\Backup\PMXGovBOGestionPC.vbproj.user">
+</Event><Event ErrorLevel="0" Project="PMXGovBOGestionPC" Source="AccesRight.vb" Description="File successfully backed up as F:\dev\sources\CFS\CFS\trunk\DOTNET\PMXGOVBOGestionPC\Backup\AccesRight.vb">
+</Event><Event ErrorLevel="0" Project="PMXGovBOGestionPC" Source="AssemblyInfo.vb" Description="File successfully backed up as F:\dev\sources\CFS\CFS\trunk\DOTNET\PMXGOVBOGestionPC\Backup\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="PMXGovBOGestionPC" Source="Confirmation.vb" Description="File successfully backed up as F:\dev\sources\CFS\CFS\trunk\DOTNET\PMXGOVBOGestionPC\Backup\Confirmation.vb">
+</Event><Event ErrorLevel="0" Project="PMXGovBOGestionPC" Source="control utilisateur\ABoutton.vb" Description="File successfully backed up as F:\dev\sources\CFS\CFS\trunk\DOTNET\PMXGOVBOGestionPC\Backup\control utilisateur\ABoutton.vb">
+</Event><Event ErrorLevel="0" Project="PMXGovBOGestionPC" Source="control utilisateur\AGroup.vb" Description="File successfully backed up as F:\dev\sources\CFS\CFS\trunk\DOTNET\PMXGOVBOGestionPC\Backup\control utilisateur\AGroup.vb">
+</Event><Event ErrorLevel="0" Project="PMXGovBOGestionPC" Source="control utilisateur\monBoutton.vb" Description="File successfully backed up as F:\dev\sources\CFS\CFS\trunk\DOTNET\PMXGOVBOGestionPC\Backup\control utilisateur\monBoutton.vb">
+</Event><Event ErrorLevel="0" Project="PMXGovBOGestionPC" Source="control utilisateur\monLabel.vb" Description="File successfully backed up as F:\dev\sources\CFS\CFS\trunk\DOTNET\PMXGOVBOGestionPC\Backup\control utilisateur\monLabel.vb">
+</Event><Event ErrorLevel="0" Project="PMXGovBOGestionPC" Source="control utilisateur\TBoutton.vb" Description="File successfully backed up as F:\dev\sources\CFS\CFS\trunk\DOTNET\PMXGOVBOGestionPC\Backup\control utilisateur\TBoutton.vb">
+</Event><Event ErrorLevel="0" Project="PMXGovBOGestionPC" Source="FrmActivation.Designer.vb" Description="File successfully backed up as F:\dev\sources\CFS\CFS\trunk\DOTNET\PMXGOVBOGestionPC\Backup\FrmActivation.Designer.vb">
+</Event><Event ErrorLevel="0" Project="PMXGovBOGestionPC" Source="FrmActivation.vb" Description="File successfully backed up as F:\dev\sources\CFS\CFS\trunk\DOTNET\PMXGOVBOGestionPC\Backup\FrmActivation.vb">
+</Event><Event ErrorLevel="0" Project="PMXGovBOGestionPC" Source="Frmcartepermis.vb" Description="File successfully backed up as F:\dev\sources\CFS\CFS\trunk\DOTNET\PMXGOVBOGestionPC\Backup\Frmcartepermis.vb">
+</Event><Event ErrorLevel="0" Project="PMXGovBOGestionPC" Source="Frmpcetranger.vb" Description="File successfully backed up as F:\dev\sources\CFS\CFS\trunk\DOTNET\PMXGOVBOGestionPC\Backup\Frmpcetranger.vb">
+</Event><Event ErrorLevel="0" Project="PMXGovBOGestionPC" Source="frmrechavancee.vb" Description="File successfully backed up as F:\dev\sources\CFS\CFS\trunk\DOTNET\PMXGOVBOGestionPC\Backup\frmrechavancee.vb">
+</Event><Event ErrorLevel="0" Project="PMXGovBOGestionPC" Source="Help.vb" Description="File successfully backed up as F:\dev\sources\CFS\CFS\trunk\DOTNET\PMXGOVBOGestionPC\Backup\Help.vb">
+</Event><Event ErrorLevel="0" Project="PMXGovBOGestionPC" Source="Listecarte.vb" Description="File successfully backed up as F:\dev\sources\CFS\CFS\trunk\DOTNET\PMXGOVBOGestionPC\Backup\Listecarte.vb">
+</Event><Event ErrorLevel="0" Project="PMXGovBOGestionPC" Source="Listedossier.vb" Description="File successfully backed up as F:\dev\sources\CFS\CFS\trunk\DOTNET\PMXGOVBOGestionPC\Backup\Listedossier.vb">
+</Event><Event ErrorLevel="0" Project="PMXGovBOGestionPC" Source="Listexamen.vb" Description="File successfully backed up as F:\dev\sources\CFS\CFS\trunk\DOTNET\PMXGOVBOGestionPC\Backup\Listexamen.vb">
+</Event><Event ErrorLevel="0" Project="PMXGovBOGestionPC" Source="LotOfSelection.vb" Description="File successfully backed up as F:\dev\sources\CFS\CFS\trunk\DOTNET\PMXGOVBOGestionPC\Backup\LotOfSelection.vb">
+</Event><Event ErrorLevel="0" Project="PMXGovBOGestionPC" Source="lstcvicarte.vb" Description="File successfully backed up as F:\dev\sources\CFS\CFS\trunk\DOTNET\PMXGOVBOGestionPC\Backup\lstcvicarte.vb">
+</Event><Event ErrorLevel="0" Project="PMXGovBOGestionPC" Source="Menu2.vb" Description="File successfully backed up as F:\dev\sources\CFS\CFS\trunk\DOTNET\PMXGOVBOGestionPC\Backup\Menu2.vb">
+</Event><Event ErrorLevel="0" Project="PMXGovBOGestionPC" Source="Menu4.vb" Description="File successfully backed up as F:\dev\sources\CFS\CFS\trunk\DOTNET\PMXGOVBOGestionPC\Backup\Menu4.vb">
+</Event><Event ErrorLevel="0" Project="PMXGovBOGestionPC" Source="ModSam.vb" Description="File successfully backed up as F:\dev\sources\CFS\CFS\trunk\DOTNET\PMXGOVBOGestionPC\Backup\ModSam.vb">
+</Event><Event ErrorLevel="0" Project="PMXGovBOGestionPC" Source="ModSam_std.vb" Description="File successfully backed up as F:\dev\sources\CFS\CFS\trunk\DOTNET\PMXGOVBOGestionPC\Backup\ModSam_std.vb">
+</Event><Event ErrorLevel="0" Project="PMXGovBOGestionPC" Source="My Project\Resources.Designer.vb" Description="File successfully backed up as F:\dev\sources\CFS\CFS\trunk\DOTNET\PMXGOVBOGestionPC\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="PMXGovBOGestionPC" Source="Web References\WebReference1\Reference.vb" Description="File successfully backed up as F:\dev\sources\CFS\CFS\trunk\DOTNET\PMXGOVBOGestionPC\Backup\Web References\WebReference1\Reference.vb">
+</Event><Event ErrorLevel="0" Project="PMXGovBOGestionPC" Source="Resources\Reduire.png" Description="File successfully backed up as F:\dev\sources\CFS\CFS\trunk\DOTNET\PMXGOVBOGestionPC\Backup\Resources\Reduire.png">
+</Event><Event ErrorLevel="0" Project="PMXGovBOGestionPC" Source="Resources\Reduire_Actif.png" Description="File successfully backed up as F:\dev\sources\CFS\CFS\trunk\DOTNET\PMXGOVBOGestionPC\Backup\Resources\Reduire_Actif.png">
+</Event><Event ErrorLevel="0" Project="PMXGovBOGestionPC" Source="Resources\Fermer.png" Description="File successfully backed up as F:\dev\sources\CFS\CFS\trunk\DOTNET\PMXGOVBOGestionPC\Backup\Resources\Fermer.png">
+</Event><Event ErrorLevel="0" Project="PMXGovBOGestionPC" Source="Resources\Fermer_Actif.png" Description="File successfully backed up as F:\dev\sources\CFS\CFS\trunk\DOTNET\PMXGOVBOGestionPC\Backup\Resources\Fermer_Actif.png">
+</Event><Event ErrorLevel="0" Project="PMXGovBOGestionPC" Source="Resources\Agrandir.png" Description="File successfully backed up as F:\dev\sources\CFS\CFS\trunk\DOTNET\PMXGOVBOGestionPC\Backup\Resources\Agrandir.png">
+</Event><Event ErrorLevel="0" Project="PMXGovBOGestionPC" Source="Resources\Agrandir_Actif.png" Description="File successfully backed up as F:\dev\sources\CFS\CFS\trunk\DOTNET\PMXGOVBOGestionPC\Backup\Resources\Agrandir_Actif.png">
+</Event><Event ErrorLevel="0" Project="PMXGovBOGestionPC" Source="Web References\WebReference1\Reference.map" Description="File successfully backed up as F:\dev\sources\CFS\CFS\trunk\DOTNET\PMXGOVBOGestionPC\Backup\Web References\WebReference1\Reference.map">
+</Event><Event ErrorLevel="0" Project="PMXGovBOGestionPC" Source="Web References\WebReference1\Service1.disco" Description="File successfully backed up as F:\dev\sources\CFS\CFS\trunk\DOTNET\PMXGOVBOGestionPC\Backup\Web References\WebReference1\Service1.disco">
+</Event><Event ErrorLevel="0" Project="PMXGovBOGestionPC" Source="Web References\WebReference1\Service1.wsdl" Description="File successfully backed up as F:\dev\sources\CFS\CFS\trunk\DOTNET\PMXGOVBOGestionPC\Backup\Web References\WebReference1\Service1.wsdl">
+</Event><Event ErrorLevel="0" Project="PMXGovBOGestionPC" Source="MX.ico" Description="File successfully backed up as F:\dev\sources\CFS\CFS\trunk\DOTNET\PMXGOVBOGestionPC\Backup\MX.ico">
+</Event><Event ErrorLevel="0" Project="PMXGovBOGestionPC" Source="AccesRight.resX" Description="File successfully backed up as F:\dev\sources\CFS\CFS\trunk\DOTNET\PMXGOVBOGestionPC\Backup\AccesRight.resX">
+</Event><Event ErrorLevel="0" Project="PMXGovBOGestionPC" Source="Confirmation.resX" Description="File successfully backed up as F:\dev\sources\CFS\CFS\trunk\DOTNET\PMXGOVBOGestionPC\Backup\Confirmation.resX">
+</Event><Event ErrorLevel="0" Project="PMXGovBOGestionPC" Source="control utilisateur\ABoutton.resx" Description="File successfully backed up as F:\dev\sources\CFS\CFS\trunk\DOTNET\PMXGOVBOGestionPC\Backup\control utilisateur\ABoutton.resx">
+</Event><Event ErrorLevel="0" Project="PMXGovBOGestionPC" Source="control utilisateur\monLabel.resx" Description="File successfully backed up as F:\dev\sources\CFS\CFS\trunk\DOTNET\PMXGOVBOGestionPC\Backup\control utilisateur\monLabel.resx">
+</Event><Event ErrorLevel="0" Project="PMXGovBOGestionPC" Source="control utilisateur\TBoutton.resx" Description="File successfully backed up as F:\dev\sources\CFS\CFS\trunk\DOTNET\PMXGOVBOGestionPC\Backup\control utilisateur\TBoutton.resx">
+</Event><Event ErrorLevel="0" Project="PMXGovBOGestionPC" Source="FrmActivation.resx" Description="File successfully backed up as F:\dev\sources\CFS\CFS\trunk\DOTNET\PMXGOVBOGestionPC\Backup\FrmActivation.resx">
+</Event><Event ErrorLevel="0" Project="PMXGovBOGestionPC" Source="Frmcartepermis.resx" Description="File successfully backed up as F:\dev\sources\CFS\CFS\trunk\DOTNET\PMXGOVBOGestionPC\Backup\Frmcartepermis.resx">
+</Event><Event ErrorLevel="0" Project="PMXGovBOGestionPC" Source="Frmpcetranger.resx" Description="File successfully backed up as F:\dev\sources\CFS\CFS\trunk\DOTNET\PMXGOVBOGestionPC\Backup\Frmpcetranger.resx">
+</Event><Event ErrorLevel="0" Project="PMXGovBOGestionPC" Source="frmrechavancee.resx" Description="File successfully backed up as F:\dev\sources\CFS\CFS\trunk\DOTNET\PMXGOVBOGestionPC\Backup\frmrechavancee.resx">
+</Event><Event ErrorLevel="0" Project="PMXGovBOGestionPC" Source="Help.resx" Description="File successfully backed up as F:\dev\sources\CFS\CFS\trunk\DOTNET\PMXGOVBOGestionPC\Backup\Help.resx">
+</Event><Event ErrorLevel="0" Project="PMXGovBOGestionPC" Source="Langue.resources" Description="File successfully backed up as F:\dev\sources\CFS\CFS\trunk\DOTNET\PMXGOVBOGestionPC\Backup\Langue.resources">
+</Event><Event ErrorLevel="0" Project="PMXGovBOGestionPC" Source="Listecarte.resx" Description="File successfully backed up as F:\dev\sources\CFS\CFS\trunk\DOTNET\PMXGOVBOGestionPC\Backup\Listecarte.resx">
+</Event><Event ErrorLevel="0" Project="PMXGovBOGestionPC" Source="Listedossier.resx" Description="File successfully backed up as F:\dev\sources\CFS\CFS\trunk\DOTNET\PMXGOVBOGestionPC\Backup\Listedossier.resx">
+</Event><Event ErrorLevel="0" Project="PMXGovBOGestionPC" Source="Listexamen.resx" Description="File successfully backed up as F:\dev\sources\CFS\CFS\trunk\DOTNET\PMXGOVBOGestionPC\Backup\Listexamen.resx">
+</Event><Event ErrorLevel="0" Project="PMXGovBOGestionPC" Source="LotOfSelection.resx" Description="File successfully backed up as F:\dev\sources\CFS\CFS\trunk\DOTNET\PMXGOVBOGestionPC\Backup\LotOfSelection.resx">
+</Event><Event ErrorLevel="0" Project="PMXGovBOGestionPC" Source="lstcvicarte.resx" Description="File successfully backed up as F:\dev\sources\CFS\CFS\trunk\DOTNET\PMXGOVBOGestionPC\Backup\lstcvicarte.resx">
+</Event><Event ErrorLevel="0" Project="PMXGovBOGestionPC" Source="Menu2.resx" Description="File successfully backed up as F:\dev\sources\CFS\CFS\trunk\DOTNET\PMXGOVBOGestionPC\Backup\Menu2.resx">
+</Event><Event ErrorLevel="0" Project="PMXGovBOGestionPC" Source="Menu4.resx" Description="File successfully backed up as F:\dev\sources\CFS\CFS\trunk\DOTNET\PMXGOVBOGestionPC\Backup\Menu4.resx">
+</Event><Event ErrorLevel="0" Project="PMXGovBOGestionPC" Source="My Project\Resources.resx" Description="File successfully backed up as F:\dev\sources\CFS\CFS\trunk\DOTNET\PMXGOVBOGestionPC\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="1" Project="PMXGovBOGestionPC" Source="PMXGovBOGestionPC.vbproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="PMXGovBOGestionPC" Source="PMXGovBOGestionPC.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="PMXGovBOGestionPC" Source="PMXGovBOGestionPC.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="PMXGOVBOGestionPC.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="PMXGOVBOGestionPC.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PMXGovBOGestionPC" Source="PMXGovBOGestionPC.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
